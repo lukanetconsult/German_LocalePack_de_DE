@@ -10,5 +10,10 @@
     ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-1.9.2.0": "1.9.x-dev"
+        }
     }
 }
